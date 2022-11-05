@@ -1,0 +1,1 @@
+nuitka --standalone --show-progress --windows-disable-console --show-memory --enable-plugin=pyqt5 --windows-icon-from-ico=icon.ico --windows-product-name=ULP --windows-file-description=ULP --windows-product-version=0.0.1 --windows-company=link-fgfgui main.py
